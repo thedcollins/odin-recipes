@@ -1,3 +1,3 @@
 # Berry Cake recipes!
 
-https://github.com/thedcollins/odin-recipes
+https://thedcollins.github.io/odin-recipes/
